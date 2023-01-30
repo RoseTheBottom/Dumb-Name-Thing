@@ -1,7 +1,6 @@
 import time
 
 name = input('What is your name?\n')
-lower = name.lower
 stupid = ["egg", "james", "jeff","keith","arron","Egg", "James", "Jeff","Keith","Arron"]
 doubleA = ["Aaron","Aaliyah","aaron","aaliyah"]
 if name in stupid:
